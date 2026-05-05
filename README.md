@@ -1,5 +1,5 @@
 #  About Me:
-I am Lokesh Kannan - Passionate about Machine Learning and Backend Development. I enjoy building real-world projects using Python, Django and data-driven solutions. I am constantly learning and improving my skills in AI and software development.
+I am Lokesh Kannan - Passionate about AI and Backend Development. I enjoy building real-world projects using Python, Django and data-driven solutions. I am constantly learning and improving my skills in AI and software development.
 
 
 ##  Socials:
